@@ -6,7 +6,6 @@ import lombok.*;
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-@RequiredArgsConstructor
 public class HelloLombok {
     private String hello;
     private int lombok;
